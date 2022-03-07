@@ -8,4 +8,4 @@ Website: https://kronickatz.io/
 Twitter: https://twitter.com/kronickatz
          https://twitter.com/phoenixblockchain
 discord: https"discord.gg/kronickatz
-YouTube: https://www.youtube.com/channel/UCigv28_4-3ofHHQV3j-abDQ
+YouTube: https://www.youtube.com/channel/UCigv28_4-3ofHHQV3j-abDQ***
